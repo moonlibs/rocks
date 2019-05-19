@@ -108,6 +108,13 @@ repository = {
          }
       }
    },
+   ["lua-base58"] = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
    ["net.graphite"] = {
       ["scm-1"] = {
          {
