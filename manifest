@@ -129,6 +129,13 @@ repository = {
          }
       }
    },
+   oauth2 = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
    obj = {
       ["scm-1"] = {
          {
