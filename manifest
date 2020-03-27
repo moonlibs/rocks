@@ -50,6 +50,11 @@ repository = {
          {
             arch = "rockspec"
          }
+      },
+      ["scm-3"] = {
+         {
+            arch = "rockspec"
+         }
       }
    },
    ["connection-legacy"] = {
@@ -59,6 +64,11 @@ repository = {
          }
       },
       ["scm-2"] = {
+         {
+            arch = "rockspec"
+         }
+      },
+      ["scm-3"] = {
          {
             arch = "rockspec"
          }
