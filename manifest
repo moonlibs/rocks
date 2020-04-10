@@ -259,6 +259,13 @@ repository = {
          }
       }
    },
+   vshard = {
+      ["0.1.15-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
    xqueue = {
       ["scm-2"] = {
          {
