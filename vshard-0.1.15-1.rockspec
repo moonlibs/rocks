@@ -1,7 +1,7 @@
 package = 'vshard'
 version = '0.1.15-1'
 source  = {
-    url = 'git://github.com/tarantool/vshard.git',
+    url = 'git+https://github.com/tarantool/vshard.git',
     tag = '0.1.15',
 }
 description = {

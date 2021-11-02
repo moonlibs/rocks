@@ -8,7 +8,7 @@
 package = 'spacer'
 version = 'scm-1'
 source  = {
-    url    = 'git://github.com/igorcoding/tarantool-spacer.git',
+    url    = 'git+https://github.com/igorcoding/tarantool-spacer.git',
     branch = 'v1',
 }
 description = {

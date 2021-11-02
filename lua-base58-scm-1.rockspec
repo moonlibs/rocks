@@ -2,7 +2,7 @@ package = 'lua-base58'
 version = 'scm-1'
 
 source  = {
-    url    = 'git://github.com/Mons/lua-base58.git';
+    url    = 'git+https://github.com/Mons/lua-base58.git';
     branch = 'master';
 }
 

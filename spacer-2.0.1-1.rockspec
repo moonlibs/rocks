@@ -1,7 +1,7 @@
 package = 'spacer'
 version = '2.0.1-1'
 source  = {
-    url = 'git://github.com/igorcoding/tarantool-spacer.git',
+    url = 'git+https://github.com/igorcoding/tarantool-spacer.git',
     tag = 'v2.0.1',
 }
 description = {

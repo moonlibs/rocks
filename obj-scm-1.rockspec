@@ -1,7 +1,7 @@
 package = 'obj'
 version = 'scm-1'
 source  = {
-    url    = 'git://github.com/moonlibs/obj.git',
+    url    = 'git+https://github.com/moonlibs/obj.git',
     branch = 'master',
 }
 description = {
