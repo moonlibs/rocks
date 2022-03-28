@@ -1,3 +1,4 @@
+rockspec_version = "1.1"
 package = "fun-extensions"
 version = "scm-1"
 source = {
