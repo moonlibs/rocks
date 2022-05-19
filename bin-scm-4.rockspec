@@ -3,7 +3,7 @@ version = "scm-4"
 
 source  = {
     url    = 'git+https://github.com/moonlibs/bin.git';
-    branch = 'v4';
+    branch = 'master';
 }
 
 description = {
