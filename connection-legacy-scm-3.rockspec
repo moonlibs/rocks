@@ -2,7 +2,7 @@ package = "connection-legacy"
 version = "scm-3"
 source = {
    url = "git+https://github.com/moonlibs/connection-legacy.git",
-   branch = "v3"
+   branch = "master"
 }
 description = {
    summary = "Legacy iproto connector to tarantool (1.5)",
