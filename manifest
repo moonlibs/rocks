@@ -197,6 +197,13 @@ repository = {
          }
       }
    },
+   ["math.round"] = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
    migrate = {
       ["scm-1"] = {
          {
