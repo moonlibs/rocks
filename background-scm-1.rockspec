@@ -10,6 +10,6 @@ description = {
 build = {
    type = "builtin",
    modules = {
-      background = "init.lua"
+      background = "background.lua"
    }
 }
