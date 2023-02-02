@@ -7,7 +7,7 @@ description = {
    homepage = "https://github.com/moonlibs/fun-extensions",
    license = "MIT"
 }
-dependecies = {
+dependencies = {
    "fun",
 }
 build = {
