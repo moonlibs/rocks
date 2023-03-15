@@ -355,6 +355,11 @@ repository = {
       }
    },
    sync = {
+      ["0.9.0-1"] = {
+         {
+            arch = "rockspec"
+         }
+      },
       ["scm-1"] = {
          {
             arch = "rockspec"
