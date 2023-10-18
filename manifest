@@ -53,6 +53,14 @@ repository = {
             arch = "rockspec"
          }
       },
+      ["0.7.0-1"] = {
+         {
+            arch = "src"
+         },
+         {
+            arch = "rockspec"
+         }
+      },
       ["scm-1"] = {
          {
             arch = "rockspec"
