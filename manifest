@@ -55,10 +55,10 @@ repository = {
       },
       ["0.7.0-1"] = {
          {
-            arch = "src"
+            arch = "rockspec"
          },
          {
-            arch = "rockspec"
+            arch = "src"
          }
       },
       ["scm-1"] = {
@@ -209,12 +209,22 @@ repository = {
       }
    },
    kit = {
+      ["3.0.0-1"] = {
+         {
+            arch = "rockspec"
+         }
+      },
       ["scm-1"] = {
          {
             arch = "rockspec"
          }
       },
       ["scm-2"] = {
+         {
+            arch = "rockspec"
+         }
+      },
+      ["scm-3"] = {
          {
             arch = "rockspec"
          }
@@ -389,10 +399,10 @@ repository = {
       },
       ["0.10.1-1"] = {
          {
-            arch = "src"
+            arch = "rockspec"
          },
          {
-            arch = "rockspec"
+            arch = "src"
          }
       },
       ["0.9.0-1"] = {
